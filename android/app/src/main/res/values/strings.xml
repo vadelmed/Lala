@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">لحكلي</string>
+    
+    <!-- Auth -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="login_as_driver">الدخول كسائق</string>
+    <string name="login_as_user">الدخول كمستخدم</string>
+    <string name="register_as_driver">التسجيل كسائق</string>
+    <string name="register_as_user">التسجيل كمستخدم</string>
+    
+    <!-- Navigation -->
+    <string name="home">الرئيسية</string>
+    <string name="orders">الطلبات</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="wallet">المحفظة</string>
+    
+    <!-- Common -->
+    <string name="error">خطأ</string>
+    <string name="success">تم بنجاح</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="confirm">تأكيد</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    
+    <!-- Delivery -->
+    <string name="where_to">إلى أين؟</string>
+    <string name="current_location">موقعك الحالي</string>
+    <string name="destination">الوجهة</string>
+    <string name="package_details">تفاصيل الطلبية</string>
+    <string name="package_type">نوع الطلبية</string>
+    <string name="package_size">حجم الطلبية</string>
+    <string name="package_weight">وزن الطلبية</string>
+    <string name="estimated_time">الوقت المتوقع</string>
+    <string name="estimated_distance">المسافة المتوقعة</string>
+    <string name="estimated_cost">التكلفة المتوقعة</string>
+    
+    <!-- Driver -->
+    <string name="points">النقاط</string>
+    <string name="available_points">النقاط المتاحة</string>
+    <string name="no_points">لا توجد نقاط كافية</string>
+    <string name="add_points">إضافة نقاط</string>
+    <string name="online">متصل</string>
+    <string name="offline">غير متصل</string>
+</resources>
